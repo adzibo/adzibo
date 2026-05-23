@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**adzibo/adzibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DevOps · Inteligencia Artificial · Pentesting Web
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Técnico Superior en Administración de Sistemas Informáticos en Red con perfil profesional en Ciberseguridad.
+
+Durante mi beca como DevOps, administré infraestructura activa: servidores Zabbix, clústeres Kubernetes y stacks completos de observabilidad con Grafana, Prometheus y OpenTelemetry. Una de las líneas de trabajo consistió en monitorizar modelos LLM en producción, algo que muy pocos perfiles junior han tenido la oportunidad de tocar.
+
+Actualmente me sigo especializando en pentesting web de forma constante: resolviendo máquinas en plataformas como HackTheBox y desarrollando herramientas propias, instalables y documentadas, que publico en este perfil. 
+
+Recientemente he cursado la Especialización en Inteligencia Artificial y Big Data, finalizándola con Matrícula de Honor, recibiendo el premio al mejor expediente de la promoción — lo que me sitúa en un cruce de disciplinas que pocos perfiles junior combinan: seguridad, infraestructura e inteligencia artificial.
+
+---
+
+## Stack Técnico
+
+Ciberseguridad Defensivo `Wazuh` `Nessus` `OpenVAS` `fail2ban`
+
+Pentesting Web `nmap` `Burp Suite` `subfinder` `ffuf` `sqlmap` `nikto` `Hashcat` `hydra` `Python Scripting` `Bash Scripting` `Obsidian` 
+
+Monitorización & Observabilidad `Zabbix` `Grafana` `Prometheus` `OpenTelemetry` `IBM Cloud Monitoring`
+
+Infraestructura & DevOps `Kubernetes` `Docker` `Docker Compose` `VMware`
+
+---
+
+<div align="center">
+
+**Created by AdZiBo**
+
+[![GitHub](https://img.shields.io/badge/GitHub-adzibo-181717?style=flat&logo=github)](https://github.com/adzibo)
+
+</div>
