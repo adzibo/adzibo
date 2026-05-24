@@ -10,7 +10,7 @@ Como DevOps, administré infraestructura activa: servidores Zabbix, clústeres K
 
 Actualmente, me sigo especializando en pentesting web de forma constante: resolviendo máquinas en plataformas como HackTheBox y desarrollando herramientas propias, instalables y documentadas, que publico en este perfil. 
 
-Recientemente he cursado la Especialización en Inteligencia Artificial y Big Data, finalizándola con Matrícula de Honor y recibiendo el premio al mejor expediente de la promoción.
+Recientemente he finalizado la Especialización en Inteligencia Artificial y Big Data, obteniendo Matrícula de Honor y el premio al mejor expediente académico de la promoción.
 
 Soy un perfil con un cruce de disciplinas que pocos perfiles junior combinan: ciberseguridad, infraestructura e inteligencia artificial.
 
