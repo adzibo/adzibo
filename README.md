@@ -6,11 +6,13 @@
 
 Técnico Superior en Administración de Sistemas Informáticos en Red con perfil profesional en Ciberseguridad.
 
-Durante mi beca como DevOps, administré infraestructura activa: servidores Zabbix, clústeres Kubernetes y stacks completos de observabilidad con Grafana, Prometheus y OpenTelemetry. Una de las líneas de trabajo consistió en monitorizar modelos LLM en producción, algo que muy pocos perfiles junior han tenido la oportunidad de tocar.
+Como DevOps, administré infraestructura activa: servidores Zabbix, clústeres Kubernetes y stacks completos de observabilidad con Grafana, Prometheus y OpenTelemetry. Una de las líneas de trabajo consistió en monitorizar modelos LLM en producción.
 
-Actualmente me sigo especializando en pentesting web de forma constante: resolviendo máquinas en plataformas como HackTheBox y desarrollando herramientas propias, instalables y documentadas, que publico en este perfil. 
+Actualmente, me sigo especializando en pentesting web de forma constante: resolviendo máquinas en plataformas como HackTheBox y desarrollando herramientas propias, instalables y documentadas, que publico en este perfil. 
 
-Recientemente he cursado la Especialización en Inteligencia Artificial y Big Data, finalizándola con Matrícula de Honor, recibiendo el premio al mejor expediente de la promoción — lo que me sitúa en un cruce de disciplinas que pocos perfiles junior combinan: seguridad, infraestructura e inteligencia artificial.
+Recientemente he cursado la Especialización en Inteligencia Artificial y Big Data, finalizándola con Matrícula de Honor y recibiendo el premio al mejor expediente de la promoción.
+
+Soy un perfil con un cruce de disciplinas que pocos perfiles junior combinan: ciberseguridad, infraestructura e inteligencia artificial.
 
 ---
 
